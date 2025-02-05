@@ -1,30 +1,27 @@
-# ReactJS Global Mentoring Program Q3-Q4 2024
+# React + Next application
 
-Welcome to the repository for React mentoring program of Q3-Q4 2024, group of mentees Dragos Vasile and mentor Adam Pisky-Nagy.
+Welcome to the repository for Movies App.
+I have created this project trying to use most of the React main features.
 
 ## Instructions
 
-Please make sure to add this repository as one of your remotes with the following instructions:
+React application with client side rendering:
+cd react-practical-task
+npm install
+npm run dev
 
-In the root directory of your project type the following command:
+Next application with server side rendering:
+cd my-app
+npm install
+npm run dev
 
-`git remote add mentoring https://gitbud.epam.com/adam_pisky-nagy/reactjs-global-mentoring-program-q3-q4-2024`
+## Screenshots of the application
 
-*you can choose to replace 'mentoring' in the above command as you like, this will be your alternative remote name
+![movies-6](https://github.com/user-attachments/assets/bb46d4ab-fae0-4f2d-aa07-5a2cffcea491)
+![movies-5](https://github.com/user-attachments/assets/bc044e02-be97-4412-b2bb-b9e67a233678)
+![movies-4](https://github.com/user-attachments/assets/c6e3e42a-f46f-4836-9c15-1b73a392186e)
+![movies-3](https://github.com/user-attachments/assets/d75e3aa9-9739-4f26-8e36-fddad1e504d0)
+![movies-2](https://github.com/user-attachments/assets/a3e11fea-fb7d-4835-afcc-b43c6bbf299a)
+![movies-1](https://github.com/user-attachments/assets/92b055f2-71c0-4a09-832e-b0829031f900)
 
-After setting up the remote you will be able to push your progress via the git command:
 
-`git push mentoring [YOUR_BRANCH_NAME]-task[TASK_NUMBER]`
-
-[YOUR_BRANCH_NAME] should be your first name in full lowercase, I have already set these up.
-  [TASK_NUMBER] is the task No.
-
-Please use the above branch naming format for each task (e.g. dragos-task2).
-
-You can still push your changes to your own repository if you like and you have one with
-
-`git push [YOUR_BRANCH_NAME]-task[TASK_NUMBER]`
-  or
-  `git push origin [YOUR_BRANCH_NAME]-task[TASK_NUMBER]`
-
-When you push your progress to this repository and mark 'Needs review' on Learning portal I will review your changes and when everything is alright I will merge your task to your main branches(namely dragos), no need to worry about that in this repository. You can make changes to your own repository(if you are using one, which I highly recommend) as you wish, of course.
