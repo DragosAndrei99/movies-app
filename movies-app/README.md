@@ -5,6 +5,8 @@ I have created this project trying to use most of the React main features.
 
 ## Instructions
 
+For this app to load data, it requires a back-end application that satisfies the requirements as per the swagger.yaml file.
+
 React application with client side rendering:
 cd react-practical-task
 npm install
